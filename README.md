@@ -1,8 +1,8 @@
-#Project Description
+# Project Description
 
 This project is the first step towards building a full web application: an AirBnB clone. The main goal of this first step is to create a command interpreter to manage AirBnB objects. The command interpreter will be used to create, retrieve, update, and destroy objects. This project will also involve creating a parent class called BaseModel to handle the initialization, serialization, and deserialization of future instances. Additionally, all classes used for AirBnB, such as User, State, City, and Place, will be created, and the first abstracted storage engine of the project, File storage, will be implemented.
 
-#Command Interpreter Description
+# Command Interpreter Description
 
 The command interpreter is a tool that allows you to manage AirBnB objects through a command-line interface. It is similar to a shell but is limited to a specific use-case. With the command interpreter, you can:
 - Create a new object (e.g., a new User or a new Place)
@@ -11,12 +11,12 @@ The command interpreter is a tool that allows you to manage AirBnB objects throu
 - Update the attributes of an object
 - Destroy an object
 
-#How to Start the Command Interpreter
+# How to Start the Command Interpreter
 To start the command interpreter, navigate to the root directory of the project in your terminal and run the following command:
 	'$console.py'
 This will launch the command interpreter, and you will be able to start managing AirBnB objects.
 
-#How to Use the Command Interpreter
+# How to Use the Command Interpreter
 
 The command interpreter supports several commands that allow you to manage AirBnB objects. Here are some examples of how to use the command interpreter:
 - To create a new User, use the following command:
